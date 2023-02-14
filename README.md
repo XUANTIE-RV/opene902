@@ -33,7 +33,7 @@ To gain more information about how to use smart testbench.
 
 ```
 You can download the GNU tool chain compiled by T-HEAD from the url below:
-https://occ.t-head.cn/community/download?id=3948120165480468480
+https://occ.t-head.cn/community/download?id=4090445921563774976
 
 $ cd ./smart_run
 GNU tool chain (specific riscv version) must be installed and specified before
