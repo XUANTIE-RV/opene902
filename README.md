@@ -22,7 +22,7 @@
 
 ```
 $ cd E902_RTL_FACTORY
-$ source setup/setup.csh
+$ source setup/setup.csh	#for bash, please 'source setup/setup.sh'
 $ cd ../smart_run
 $ make help
 To gain more information about how to use smart testbench.
@@ -39,7 +39,7 @@ $ cd ./smart_run
 GNU tool chain (specific riscv version) must be installed and specified before
 compiling *.c/*.v tests of the smart environment. Please refer to the following
 setup file about how to specify it: 
-    ./smart_run/setup/example_setup.csh
+    ./smart_run/setup/example_setup.csh	 #for bash, please refer to './smart_run/setup/example_setup.sh'
 ```
 
 
