@@ -72,3 +72,9 @@ You can get the debugger, IDE and SDK from the url:https://occ.t-head.cn/communi
 #See the License for the specific language governing permissions and
 #limitations under the License.
 #*/
+
+## Resources
+
+Technical resources for low-power RISC-V development based on the E902 processor, including documentation and development materials:
+
+* [XuanTie E902 Technical Resources](https://www.xrvm.cn/product/xuantie/E902)
